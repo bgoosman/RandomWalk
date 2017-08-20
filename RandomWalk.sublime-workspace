@@ -1,0 +1,377 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"http",
+				"httpRoot"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/ofApp.cpp",
+			"settings":
+			{
+				"buffer_size": 2264,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/openFrameworks.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/openFrameworks.sublime-build",
+					""
+				],
+				[
+					"Packages/User/openFrameworks.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/openFrameworks.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/User/openFrameworks.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"last_filter": ":w",
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"easy",
+				"EasyClangComplete: Clean current CMake cache"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/admin/Documents/openFrameworks/apps/myApps/RandomWalk",
+		"/Users/admin/Documents/openFrameworks/apps/myApps/RandomWalk/src"
+	],
+	"file_history":
+	[
+		"/Users/admin/Documents/openFrameworks/apps/myApps/RandomWalk/.clang_complete",
+		"/Users/admin/Documents/openFrameworks/apps/myApps/RandomWalk/src/ofApp.h",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/openFrameworks.sublime-build",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/SublimeAStyleFormatter.sublime-settings",
+		"/Users/admin/.config/karabiner/karabiner.json",
+		"/Users/admin/Documents/legacy-code.txt",
+		"/Users/admin/otb/sites/default/themes/tv_2014/inc/css/main-large.css",
+		"/Applications/MAMP/bin/php/php5.4.45/conf/php.ini",
+		"/Users/admin/otb/sites/all/modules/otb_misc_tv/otb_tv_video_logic/otb_tv_video_logic.module",
+		"/Users/admin/otb/sites/ontheboards.org/settings.php",
+		"/Users/admin/otb/sites/default/settings.php",
+		"/Users/admin/otb/includes/install.mysql.inc",
+		"/Users/admin/otb/includes/database.mysql.inc",
+		"/Users/admin/otb/includes/database.mysql-common.inc",
+		"/Users/admin/Documents/openFrameworks/addons/ofxPS3EyeGrabber/example/src/ofApp.h",
+		"/Users/admin/Documents/openFrameworks/addons/ofxPS3EyeGrabber/example/src/ofApp.cpp",
+		"/Users/admin/Documents/openFrameworks/addons/ofxPS3EyeGrabber/example/src/main.cpp",
+		"/Users/admin/Documents/openFrameworks/addons/ofxKinectV2/example/src/ofApp.h",
+		"/Users/admin/Documents/openFrameworks/addons/ofxKinectV2/example/src/ofApp.cpp",
+		"/Users/admin/Documents/openFrameworks/addons/ofxKinectV2/example/src/main.cpp",
+		"/Users/admin/otb/sites/all/themes/ontheboards_org/css/styles.css",
+		"/Users/admin/otb/otb_misc_tv/otb_tv_video_logic/otb_tv_video_logic.module",
+		"/Users/admin/Documents/paths/Untitled.yaml",
+		"/Users/admin/Documents/paths/Calie.yaml",
+		"/Users/admin/Documents/fake-sleep-awake-wav/Untitled.yaml",
+		"/Users/admin/Downloads/hyper-hacks-master/karabiner/karabiner.json",
+		"/Users/admin/.hammerspoon/init.lua"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/admin/otb/sites/default/themes/tv_2014",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"primary-nav",
+			"<head>",
+			"h1",
+			"HelveticaNeueW0",
+			"Helvetica",
+			"ITCLubalin",
+			"Helvet",
+			"'ITCLubalinGraphW01-Md'",
+			"ITCLubalinGraphW01-Md",
+			"ITC",
+			"ITCLubalin",
+			"ITC Lubalin Graph",
+			"8888",
+			"360",
+			"640",
+			"memory_limit =",
+			"memory_limit",
+			"pass",
+			"mysql_",
+			"get_edgecast_token",
+			"04",
+			"00",
+			"_build_video_url",
+			".mp4",
+			"_build_video_url",
+			"get_edgecast_token",
+			"proxy",
+			"http://wpc.162d.edgecastcdn.net/03162D/high-res/OTB33-Kosmas-720p.mp4.m3u8?bfa7c4aa8d44e84a04bc4a3816ac",
+			"_build_video_url",
+			"mp4",
+			"On the boards",
+			"video url",
+			"ontheboards",
+			"token"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'Bitter', sans-serif",
+			"270",
+			"480",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/ofApp.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								104,
+								104
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 155.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "RandomWalk.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main-glo",
+				"sites/default/themes/tv_2014/inc/css/main-global.css"
+			],
+			[
+				"main-large",
+				"sites/default/themes/tv_2014/inc/css/main-large.css"
+			],
+			[
+				"httpd.conf",
+				"conf/apache/httpd.conf"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"otb_tv",
+				"sites/all/modules/otb_misc_tv/otb_tv_video_logic/otb_tv_video_logic.module"
+			],
+			[
+				"php.ini",
+				"php5.4.45/conf/php.ini"
+			],
+			[
+				"settings.php",
+				"sites/ontheboards.org/settings.php"
+			],
+			[
+				"otb_misc",
+				"sites/all/modules/otb_misc_tv/otb_misc_tv.info"
+			],
+			[
+				"settings.",
+				"sites/ontheboards.org/settings.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
